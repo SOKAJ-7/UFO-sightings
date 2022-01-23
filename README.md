@@ -1,6 +1,6 @@
 # UFO-sightings
 
-## Summary 
+## Project Overview 
 The goal of this project was to design a webpage that could summarize the incidences of UFO sightings while allowing users to filter sightings based on criteria such as location, UFO shape, and date of observance. This was achieved by utilizing a dynamic table with Javascript.
 
 ## Results
@@ -14,6 +14,9 @@ For the search itself, one only needs to fill out the filter criteria in the man
 (Figure 1)
 
 After filling out the desired criteria, press enter and a table should load which shows the documented UFO sightings that match the provided search filters.
+
+## Summary
+One drawback of the webpage is that search criteria is not saved. If one wants to search 
 
 
 
