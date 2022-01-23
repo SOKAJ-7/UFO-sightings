@@ -25,7 +25,7 @@ One drawback of the webpage is that the search criteria can be a bit ambiguous. 
 
 ### Potential Improvements
 - Add a drop down menu for states and cities. What would be even more helpful is to filter by state first, then use that filter to narrow the drop down menu for cities to only show cities within the selected state. Furthermore, the United States and Canada appear to be the only countries represented in the data. This same idea can be applied to selecting states and provinces as well. Lastly, since Canada has provinces not states, the search filter should say "State/Province". A user would have no idea that Canada is represented in this data because Canada has no states.
--When search criteria is entered that matches no entries in the dataset, a message should appear along the lines of 'No data matching search criteria'. In the current webpage, nothing appears at all to indicate that the search criteria is invalid. This may lead a user to beleive the website has frozen or simply does not work. There should be an output for every possible input.
+- When search criteria is entered that matches no entries in the dataset, a message should appear along the lines of 'No data matching search criteria'. In the current webpage, nothing appears at all to indicate that the search criteria is invalid. This may lead a user to beleive the website has frozen or simply does not work. There should be an output for every possible input.
 
 
 
